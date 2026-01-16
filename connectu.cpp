@@ -1,8 +1,9 @@
 /*
+ * Name: Anlon Mao
  * PROJECT: CONNECT-U (Starter Code)
  * Course: ECE367L Data Structures & Algorithms
- * 
- * SAFETY UPDATE:
+ *  
+ * SAFETY UPDATE
  * The saveData() function call in main() is currently COMMENTED OUT.
  * This prevents you from accidentally wiping your 'posts.csv' file
  * if your Lab 1 implementation is incomplete.
